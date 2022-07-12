@@ -15,12 +15,5 @@
 
 <details>
   <summary>🖥️ Languages and Tools I Love</summary>
-  <br>
-  <ul>
-    <li>
-      <b><h4>Unreal Engine 5</h4>
-      <p>LoremIpsum</p>
-    </li> 
-  </ul>
 </details>
 
