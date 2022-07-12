@@ -16,14 +16,14 @@
 <details>
   <summary>Languages and Tools I Love</summary>
   <br>
-	- Unreal Engine 5
-  - C++
-  - Linux
-  - Python
-  - Blender
-  - Node.JS
-  - JavaScript
-  - Unity
-  - C# / .NET
+- Unreal Engine 5
+- C++
+- Linux
+- Python
+- Blender
+- Node.JS
+- JavaScript
+- Unity
+- C# / .NET
 </details>
 
