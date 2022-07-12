@@ -1,4 +1,4 @@
-<h2 align="center"> Hello, I'm Colin Allen.</h2>
+<h2 align="center"> Hello, I'm Colin.</h2>
 <p align="center">
   <a href=""><b>Blog</b></a> | 
   <a href=""><b>Twitter</a> |
