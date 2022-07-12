@@ -5,25 +5,19 @@
   <a href=""><b>LinkedIn</a>
 </p>
 
-- Currently a student at Kennesaw State University (Graduating Fall 2022).
-- Passionate about Game Development, Linux, C++ and constantly learning new things.
-- Currently sharpening my skills in Unreal Engine (C++) and Blender
-- Think I could add value to your team? Shoot me an email at *colinallen.work@gmail.com*.
-- Wanna reach me for anything else? Message me on [twitter](https://twitter.com)!
+- 🏫 Currently a student at Kennesaw State University (Graduating Fall 2022).
+- 🕹️ Passionate about Game Development, currently learning Unreal Engine 5 (C++).
+- 🐧 Always love working in Linux using tools like Vim, DoomEmacs and Obsidian.
+- 💼 Think I could add value to your team? Shoot me an email at *colinallen.work@gmail.com*.
+- 💬 Wanna reach me for anything else? Message me on [twitter](https://twitter.com)!
 
 ----
 
 <details>
-  <summary>Languages and Tools I Love</summary>
+  <summary>🖥️ Languages and Tools I Love</summary>
   <br>
-- Unreal Engine 5
-- C++
-- Linux
-- Python
-- Blender
-- Node.JS
-- JavaScript
-- Unity
-- C# / .NET
+  <ul>
+  <li><b>Unreal Engine 5</li> 
+  </ul>
 </details>
 
