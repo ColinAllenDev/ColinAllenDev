@@ -9,7 +9,7 @@
 - 🕹️ Passionate about Game Development, currently learning Unreal Engine 5 (C++).
 - 🐧 Always love working in Linux using tools like Vim, DoomEmacs and Obsidian.
 - 💼 Think I could add value to your team? Shoot me an email at *colinallen.work@gmail.com*.
-- 💬 Wanna reach me for anything else? Message me on [twitter](https://twitter.com)!
+- 💬 Wanna reach me for anything else? Message me on [twitter](https://twitter.com/CerberusStu)!
 
 ----
 
