@@ -5,7 +5,7 @@
   <a href=""><b>LinkedIn</a>
 </p>
 
-- 🏫 Currently a student at Kennesaw State University (Graduating Fall 2022).
+- 🏫 Graduated with a Bachelors in Computer Science from Kennesaw State University.
 - 🕹️ Passionate about C++, Backend Technology, and Game Development.
 - 🐧 Always love working in Linux using tools like Vim, DoomEmacs and Obsidian.
 - 💼 Think I could add value to your team? Shoot me an email at *colinallen.work@gmail.com*.
