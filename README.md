@@ -6,7 +6,7 @@
 </p>
 
 - 🏫 Currently a student at Kennesaw State University (Graduating Fall 2022).
-- 🕹️ Passionate about Game Development, currently learning Unreal Engine 5 (C++).
+- 🕹️ Passionate about C++, Backend Technology, and Game Development.
 - 🐧 Always love working in Linux using tools like Vim, DoomEmacs and Obsidian.
 - 💼 Think I could add value to your team? Shoot me an email at *colinallen.work@gmail.com*.
 - 💬 Wanna reach me for anything else? Message me on [twitter](https://twitter.com/CerberusStu)!
